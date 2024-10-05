@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Form Validation Script - README
 
 This project demonstrates how to validate a form using JavaScript before submitting it. The script provides basic real-time validation for several form fields such as email, password, re-entered password, fullname, and merchant name. It also ensures the form can only be submitted if all validations pass.
@@ -11,6 +10,3 @@ This project demonstrates how to validate a form using JavaScript before submitt
 - Full name validation: Ensures that the full name is not empty and trims unnecessary whitespace.
 
 Form submission control: Prevents form submission if any validation fails and provides feedback by highlighting invalid fields.
-=======
-"This is the first version 1" 
->>>>>>> dd5d7c3f6d4e2072ce22cd7174b607c074c171ea
